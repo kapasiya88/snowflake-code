@@ -1,0 +1,20 @@
+{
+    "product_id": {
+      "oid": "5968dd23fc13ae04d9000004",
+      "id":"4"
+    },
+    "product_name": "silde citr",
+    "supplier": "Wisozk Inc",
+    "quantity": 260,
+    "unit_cost": ["$10.47","$0"]
+  }, 
+  {
+    "product_id": {
+      "oid": "5968dd23fc13ae04d9000005",
+      "id":"5"
+    },
+    "product_name": "Mountain  as",
+    "supplier": "Keebler-Hilpert",
+    "quantity": 290,
+    "unit_cost": ["$8.74","$0"]
+  }
