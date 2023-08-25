@@ -1,7 +1,7 @@
 This project is used to ingest the json data from S3 to snowflake using external stage and external tables.
 Whenever there is a new object in the source S3 bucket,an sqs notification will push the data into external 
 tables without any manual refresh.
-1)	Create a source s3 bucket with default settings (s3-source-data-demo).
+1)	Create a source s3 bucket with default settings (snowflake-sourcedata).
 
 2) create IAM role to provide access to snowflake to AWS.
 Role name: mysnowflakerole-kajal
