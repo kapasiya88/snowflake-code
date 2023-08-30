@@ -46,5 +46,4 @@ enter SQS queue ARN (copy it from step 5)
 
  8) create appropriate role to run the crawler and glue job.
 
- 9) run the glue job and check the parquet files created in parquetdata.If yes then check the files in 
- external stage and snowflake table.
+ 9) run the glue job and check the parquet files created in parquetdata.If yes then check the files in external stage and snowflake table.

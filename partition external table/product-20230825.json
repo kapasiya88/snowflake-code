@@ -1,0 +1,20 @@
+{
+    "product_id": {
+      "oid": "5968dd23fc13ae04d9000006",
+      "id":"6"
+    },
+    "product_name": "sildeq citrq",
+    "supplier": "Wisozk Inc",
+    "quantity": 260,
+    "unit_cost": ["$10.47","$0","$1"]
+  }, 
+  {
+    "product_id": {
+      "oid": "5968dd23fc13ae04d9000007",
+      "id":"7"
+    },
+    "product_name": "Mountainq  asq",
+    "supplier": "Keebler-Hilpert",
+    "quantity": 290,
+    "unit_cost": ["$8.74","$0","$1"]
+  }
